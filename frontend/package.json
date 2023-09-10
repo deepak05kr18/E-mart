@@ -67,5 +67,9 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://ecommerce-mdmx.onrender.com"
+  "proxy": "https://ecommerce-mdmx.onrender.com",
+  
+  "engines": {
+    "node": ">=14.20.1"
+  }
 }
