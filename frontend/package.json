@@ -68,7 +68,6 @@
     ]
   },
   "proxy": "https://ecommerce-mdmx.onrender.com",
-  
   "engines": {
     "node": ">=14.20.1"
   }
